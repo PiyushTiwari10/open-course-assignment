@@ -1,8 +1,11 @@
-# React + Vite
+# 🚀 React Helmet POC - Dynamic Blog Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates the use of **React Helmet Async** for dynamically updating meta tags and improving SEO in a React application.  
 
-Currently, two official plugins are available:
+## 📌 Features  
+✅ Dynamically updates page title and meta tags using **React Helmet Async**  
+✅ Loads a new **random blog post** on every button click  
+✅ Uses **Open Graph meta tags** for better social media previews  
+✅ Styled using **Tailwind CSS** for a modern look  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
